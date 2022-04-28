@@ -6,6 +6,9 @@ iReady is awful. It's the worst education tool anyone could ever use. I'm fed up
 
 As of 12/4, GitHub says this repo has ~14,000 downloads meaning 14,000 fewer people have to use iReady. Problem is, that barely makes a dent in iReady's 10,000,000+ students (0.0014%). If your school uses iReady, recommend this extension. They'll thank you. 
 
+## Important!
+I just want to say that currently using the bookmark.js will enable the debugger which can cause your page to crash! I am currently working on a way to prevent this from happening.
+
 ## How to use/install
 
 ### Using the extension
